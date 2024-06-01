@@ -50,8 +50,7 @@ const projectList = [
   },
   {
     title: "Simon's Game",
-    description:
-      "A JS game based on the famous memory teaser \"Simon's Game\".",
+    description: 'A JS game based on the famous memory teaser "Simon\'s Game".',
     url: "https://abhishekx2004.github.io/Simons_Game/",
   },
 ];
